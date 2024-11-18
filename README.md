@@ -1,4 +1,4 @@
-# File Encryption and Decryption Tool
+# ENCYDERCY
 
 This Python project provides a command-line interface to encrypt and decrypt text files using AES encryption. It utilizes the `cryptography` library for encryption and decryption operations.
 
@@ -20,7 +20,7 @@ This Python project provides a command-line interface to encrypt and decrypt tex
 2. Navigate to the project directory:
 
     ```bash
-    cd file-encryption-tool
+    cd ENCYDERCY
     ```
 
 3. Install the required dependencies:
@@ -37,7 +37,7 @@ To use the file encryption and decryption tool, follow these steps:
 2. Run the script:
 
     ```bash
-    python file_encrypt_decrypt.py
+    python encrypt.py
     ```
 
 3. Select the operation:

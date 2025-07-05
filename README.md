@@ -39,12 +39,10 @@ To use the file encryption and decryption tool, follow these steps:
     ```bash
     python encrypt.py
     ```
-
 3. Select the operation:
     - **Encryption:** Encrypt a text file.
     - **Decryption:** Decrypt an encrypted text file.
     - **Quit:** Exit the program.
-
 4. Enter the required information:
     - For encryption: provide the path of the file to encrypt, the location to save the encrypted file, and the encryption key.
     - For decryption: provide the path of the encrypted file, the location to save the decrypted file, and the decryption key.

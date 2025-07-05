@@ -49,8 +49,5 @@ To use the file encryption and decryption tool, follow these steps:
     - For encryption: provide the path of the file to encrypt, the location to save the encrypted file, and the encryption key.
     - For decryption: provide the path of the encrypted file, the location to save the decrypted file, and the decryption key.
 
-5. Follow the prompts to complete the encryption or decryption process.
-
 ## Contributing
-
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
